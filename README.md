@@ -1,7 +1,8 @@
-# tools-standalone
-Submodule of standalone tools that can fit into either the private LCATools system or a (to be created) public tools system
+# Global Search
+Runs global searches across all Wikimedia wikis.
 
 ### Files
-* globalsearch.php - Tool for searching for a phrase on all wikimedia wikis, currently requires and uses mediawiki OAuth.  
+* globalsearch.php - Tool for searching for a phrase on all wikimedia wikis.
 * globallinks.php - Tool for searching for a specific url linked from any wiki.
-* globalpagetext.php - Tool to show the text on a specific page given across all wikis (usually used to compare the status of a mediaWiki interface page).
+* globalpagetext.php - Tool to show the text on a specific page given across all
+  wikis (usually used to compare the status of a MediaWiki interface page).
