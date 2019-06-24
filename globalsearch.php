@@ -86,7 +86,7 @@ $originalapiurl = 'https://meta.wikimedia.org/w/api.php';
 								<input id='searchfor' name='searchfor' size='30' type='td' value=''>
 							</td>
 						</tr>
-						<tr style='font-size:0.5em;'>
+						<tr>
 							<td>
 								<table>
 									<tr>
